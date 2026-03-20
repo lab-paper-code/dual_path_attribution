@@ -1,0 +1,8 @@
+# Files
+.env
+
+# Folders
+__pycache__
+results
+experiments/input_attribution/results
+prior_results/
