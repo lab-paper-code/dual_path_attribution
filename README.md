@@ -1,6 +1,6 @@
 # Dual Path Attribution: Efficient Attribution for SwiGLU-Transformers through Layer-Wise Target Propagation
 
-> Publication link: _to be added_
+> Publication link: https://arxiv.org/abs/2603.19742
 
 This repository contains the official code accompanying the paper **Dual Path Attribution (DPA): Efficient Attribution for SwiGLU-Transformers through Layer-Wise Target Propagation**.
 
